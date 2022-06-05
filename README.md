@@ -1,6 +1,7 @@
 # Implementation of some algorithm
 ## Tabu search for unconstrained binary minimization problem
 code: tabu_search.py
+more information on https://upaspro.com/tabu-search/
 ## Convolution layer using numpy
 code: conv_node_activation.py
 ## Maximum_subarray_sum
